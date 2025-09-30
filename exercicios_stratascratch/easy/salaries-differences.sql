@@ -1,3 +1,4 @@
+--ID 10308
 --enunciado: Calculates the difference between the highest salaries in the marketing and engineering departments. Output just the absolute difference in salaries.
 --link: https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=3
 
