@@ -1,3 +1,5 @@
+--link para o problema: https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=3
+
 -- Primeira alternativa de solução:
 
 SELECT 
